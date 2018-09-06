@@ -1,4 +1,4 @@
 # delme-test
 test repository
 
-[[link-note]]
+[[link-note]](note)
